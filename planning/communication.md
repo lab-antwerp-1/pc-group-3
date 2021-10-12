@@ -1,6 +1,14 @@
 # Communication
 
-## Group Rules
+## Tasks
+
+| Tasks     | Responsible | Dateline |
+| --------- | :------: | :-----: |
+| Ashenafi |  | |
+| Daniel  | |  |
+| Khaled  |  |  |
+| Maurice  | | |
+| Mohammed   |   |  |
 
 <!-- any general rules you'd like to set for your group? -->
 
@@ -10,14 +18,14 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|     |     | Workflows/Project-starter                   |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**:
-- **Zoom Video Calls**:
+- **Slack Messaging**: Anytime
+- **Zoom Video Calls**: Once per week
 - **Issues**:
 - **Pull Requests**:
 
@@ -27,17 +35,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       | Ashenafi | Maurice | Daniel  | Mohammed | Khaled  |
 | --------- | :------: | :-----: | :-----: | :------: | :-----: |
-| Monday    | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Tuesday   | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Wednesday | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Thursday  | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Friday    | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Saturday  | 13 - 18  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Monday    | 16 - 23  | 12 - 23 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Tuesday   | 16 - 23  | 19 - 23 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Wednesday | 16 - 23  | 12 - 23 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Thursday  | 16 - 23  | 19 - 23 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Friday    | 16 - 23  | 19 - 23 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Saturday  | 13 - 18  | 17 - 22 | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
 - Ashenafi: 7h
-- name: _6h_;
+- Maurice: 6h
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
