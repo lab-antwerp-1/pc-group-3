@@ -16,10 +16,12 @@
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Slack Messaging**:
-- **Zoom Video Calls**:
-- **Issues**:
-- **Pull Requests**:
+- **Slack Messaging**: Details and minor problems.
+- **Zoom Video Calls**: General approach to the project. Distribution of tasks  
+  and major changes.
+- **Issues**: Major problems (getting stuck), monitoring step by step progress
+  (checklists).
+- **Pull Requests**: Finished tasks, feedback and corrections.
 
 ## Availability
 
@@ -27,17 +29,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       | Ashenafi | Maurice | Daniel  | Mohammed | Khaled  |
 | --------- | :------: | :-----: | :-----: | :------: | :-----: |
-| Monday    | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Tuesday   | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Wednesday | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Thursday  | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Friday    | 16 - 23  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
-| Saturday  | 13 - 18  | 13 - 20 | 13 - 20 | 13 - 20  | 13 - 20 |
+| Monday    | 16 - 23  | 13 - 20 | 10 - 18 | 13 - 20  | 13 - 20 |
+| Tuesday   | 16 - 23  | 13 - 20 | 10 - 18 | 13 - 20  | 13 - 20 |
+| Wednesday | 16 - 23  | 13 - 20 | 10 - 18 | 13 - 20  | 13 - 20 |
+| Thursday  | 16 - 23  | 13 - 20 | 10 - 18 | 13 - 20  | 13 - 20 |
+| Friday    | 16 - 23  | 13 - 20 | 13 - 17 | 13 - 20  | 13 - 20 |
+| Saturday  | 13 - 18  | 13 - 20 | 10 - 17 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
 
 - Ashenafi: 7h
-- name: _6h_;
+- Daniel: _8/7h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
