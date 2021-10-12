@@ -49,7 +49,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Ashenafi: 7h
 - Maurice: 6h
 - Daniel: _8/7h_;
-- name: _4h_;
+- Khaled: 4-5h;
 - name: _3h_;
 
 ## Asking for Help
