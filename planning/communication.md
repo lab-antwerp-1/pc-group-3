@@ -16,9 +16,9 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion   |
-| --- | :-: | ------------------------- |
-|     |     | Workflows/Project-starter |
+| Day         |     How      | The topic of discussion   |
+| ----------- | :----------: | ------------------------- |
+| 13-Oct-2021 | google meets | Workflows/Project-starter |
 
 ## Communication Channels
 
