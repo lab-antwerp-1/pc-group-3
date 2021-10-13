@@ -1,4 +1,20 @@
-# (project name)
+# Group-3's project
+
+This is a sample project about a basic website on trees. Nothing spectacular but
+some good planning.
+
+The main purpose of this project is to practice and develop a team workflow to
+learn how to plan and collaborate.
+
+## Group members
+
+- [Maurice](https://github.com/mauricemat)
+- [Ashenafi](https://github.com/ashenafykebede)
+- [Khaled](https://github.com/Levaii)
+- [Daniel](https://github.com/denrique-alvarez)
+- [Mohammed](https://github.com/mohammedlouzon)
+
+## (project name)
 
 <!-- describe your project -->
 
