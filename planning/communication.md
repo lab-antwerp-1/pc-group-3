@@ -2,13 +2,13 @@
 
 ## Tasks
 
-| Tasks                              | Responsible |  Dateline  |
-| ---------------------------------- | :---------: | :--------: |
-| Must have's - Head - CSS 1/26      |  Ashenafi   | 14/10/2021 |
-| Could have's - Body - CSS 27/47    |   Daniel    | 14/10/2021 |
-|                                    |   Khaled    |            |
-| Should have's - Footer - CSS 48/76 |   Maurice   | 14/10/2021 |
-|                                    |  Mohammed   |            |
+| Tasks                                           | Responsible |  Dateline  |
+| ----------------------------------------------- | :---------: | :--------: |
+| Must have's - Head - CSS 1/26 - Title and intro |  Ashenafi   | 14/10/2021 |
+| Could have's - Body - CSS 27/47 - Main info     |   Daniel    | 14/10/2021 |
+|                                                 |   Khaled    |            |
+| Should have's - Footer - CSS 48/76 - Footer     |   Maurice   | 14/10/2021 |
+|                                                 |  Mohammed   |            |
 
 <!-- any general rules you'd like to set for your group? -->
 
