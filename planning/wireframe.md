@@ -4,7 +4,7 @@
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
-[link to wireframe](#link)
+[link to wireframe](https://github.com/HackYourFutureBelgium/workflows/blob/master/project-starter/wireframe.svg)
 
 ---
 
