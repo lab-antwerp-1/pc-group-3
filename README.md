@@ -14,7 +14,7 @@ learn how to plan and collaborate.
 - [Daniel](https://github.com/denrique-alvarez)
 - [Mohammed](https://github.com/mohammedlouzon)
 
-## (project name)
+## Planning and Collaborating
 
 <!-- describe your project -->
 
