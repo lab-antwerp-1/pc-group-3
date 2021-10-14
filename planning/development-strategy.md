@@ -40,3 +40,17 @@ web page.
   - [ ] CSS: a class to make the text look fancy
 
 ---
+
+## Main Info
+
+> "As a user I can learn about trees" There is a main text in the page with
+> helpful info and links.
+
+### Interface: Main Info
+
+- Header with centered title
+  - [ ] HTML: a section with some general information about the project
+  - [ ] HTML: a pretty list of links
+  - [ ] CSS: a class to format the list
+
+---

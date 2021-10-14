@@ -5,9 +5,9 @@
 | Tasks                                           | Responsible |  Dateline  |
 | ----------------------------------------------- | :---------: | :--------: |
 | Must have's - Head - CSS 1/26 - Title and intro |  Ashenafi   | 14/10/2021 |
-| Could have's - Body - CSS 27/47 - Main info     |   Daniel    | 14/10/2021 |
-|                                                 |   Khaled    |            |
-| Should have's - Footer - CSS 48/76 - Footer     |   Maurice   | 14/10/2021 |
+| Could have's - Main info                        |   Daniel    | 14/10/2021 |
+| Body - CSS 27/47                                |   Khaled    | 14/10/2021 |
+| Should have's - Footer - CSS 48/76 - Extra Info |   Maurice   | 14/10/2021 |
 |                                                 |  Mohammed   |            |
 
 <!-- any general rules you'd like to set for your group? -->
