@@ -7,6 +7,7 @@
 - **Home Page**
 
   - As a user I can read the title of the page
+
     - [ ] _there is a prominent title at the top of the web page_
 
   - As a user I can read an introduction to this project
@@ -19,15 +20,24 @@
 
 ## Should-Have
 
->will complete the user experience, but are not necessary.
+> will complete the user experience, but are not necessary.
 
 - **Home Page**
 
-  - As an environmentalist, I want to subscribe in the RSS
-(Really Simple Syndication) to follow the evolution of the project.
+  - As an environmentalist, I want to subscribe in the RSS (Really Simple
+    Syndication) to follow the evolution of the project.
 
-    - _The RSS subscription will be displayed on the home page_.
+        - _The RSS subscription will be displayed on the home page_.
 
   - As a layman user, I want to know who the project owners are.
 
     - _Short bios of the project owners will be displayed on the home page_.
+
+## Could Haves
+
+> would be really cool ... if there's time
+
+- **Home Page**
+
+  - as a user will smile (or roll their eyes) when they read our page
+  - [ ] _there are some silly animations_
