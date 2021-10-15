@@ -46,6 +46,8 @@ web page.
 > "As a user I can learn about trees"
 
 There is a main text in the page with helpful info and links.
+> "As a user I can learn about trees" There is a main text in the page with
+> helpful info and links.
 
 ### Interface: Main Info
 
