@@ -24,6 +24,27 @@
   border-style: none none solid none;
 }
 
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.top-divider {
+  border-style: solid none none none;
+}
+
 /* https://www.developerdrive.com/8-simple-css-hover-effects/ */
 @keyframes bounce {
   0%,
